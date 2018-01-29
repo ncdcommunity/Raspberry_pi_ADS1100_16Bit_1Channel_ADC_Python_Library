@@ -3,7 +3,10 @@
 
 # ADS1100
 ADS1100 is a 16-Bit 1-Channel Analog to Digital Converter I2C Mini Module.
-This Device is available from www.ncd.io [SKU: ADS1100_I2CS]
+This Device is available from www.ncd.io 
+
+[SKU: ADS1100_I2CS]
+
 (https://store.ncd.io/product/ads1100-16-bit-1-channel-analog-to-digital-converter-i2c-mini-module/)
 This Sample code can be used with Raspberry Pi.
 
